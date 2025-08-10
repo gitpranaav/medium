@@ -1,0 +1,13 @@
+{
+  "name": "@pranavpn/common",
+  "version": "1.0.0",
+  "description": "Common utilities and types for the project",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
